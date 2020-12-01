@@ -1,4 +1,15 @@
 # CHANGELOG
+## 3.9.11 | 2020.11.25
+- Update editorLineNumber.activeForeground color [#487](https://github.com/Binaryify/OneDark-Pro/issues/487)
+
+## 3.9.10 | 2020.11.25
+- Add editorLineNumber.activeForeground highlight [#487](https://github.com/Binaryify/OneDark-Pro/issues/487)
+
+- Update license
+
+## 3.9.7 | 2020.11.21
+- Update screenshots and docs
+
 ## 3.9.6 | 2020.11.16
 - Fixed golang syntax highlighting error  [#482](https://github.com/Binaryify/OneDark-Pro/issues/482)
 
